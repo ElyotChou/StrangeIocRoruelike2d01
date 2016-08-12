@@ -1,0 +1,2 @@
+# StrangeIocRoruelike2d01
+Unity 官方Roruelike2d例子，用StrangeIoc重新架构
